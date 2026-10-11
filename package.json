@@ -1,0 +1,17 @@
+{
+  "name": "elsurf-radar",
+  "version": "0.1.0",
+  "description": "Radar de veille musicale El Surf : agrège les sorties et actus musique depuis des flux RSS.",
+  "type": "module",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
