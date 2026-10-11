@@ -1,7 +1,7 @@
 import Parser from 'rss-parser';
 
 // Fenêtre de fraîcheur : on ne garde que les items publiés dans les HOURS dernières heures.
-export const HOURS = 48;
+export const HOURS = 24;
 
 // Longueur max de la description (en caractères).
 const DESCRIPTION_MAX = 300;

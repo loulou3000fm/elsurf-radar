@@ -1,3 +1,9 @@
+// Origines possibles d'une source, dans l'ordre d'affichage du récap.
+export const ORIGINS = [
+  { origin: 'FR', emoji: '🇫🇷', label: 'Francophone' },
+  { origin: 'INTL', emoji: '🌍', label: 'International' },
+];
+
 // Sources RSS du radar.
 // origin : 'FR' (francophone) ou 'INTL' (international).
 //

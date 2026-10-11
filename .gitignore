@@ -6,6 +6,9 @@ node_modules/
 .env.*
 !.env.example
 
+# Aperçu de l'email (npm run preview)
+preview.html
+
 # Logs
 logs/
 *.log

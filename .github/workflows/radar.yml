@@ -1,0 +1,32 @@
+name: Radar quotidien
+
+on:
+  schedule:
+    # Tous les jours à 6h UTC (8h à Paris en été, 7h en hiver).
+    - cron: '0 6 * * *'
+  # Permet aussi un lancement manuel depuis l'onglet Actions.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Agréger les flux et envoyer le récap
+        run: npm start
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
