@@ -1,0 +1,1102 @@
+[
+  {
+    "input": "Numéro Group",
+    "best": {
+      "name": "Numero Group",
+      "mbid": "48cdb429-5d99-4ae5-8bc1-7bc7b68098b4",
+      "country": null,
+      "disambiguation": "Chicago archival label founded in 2003",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Numero Group",
+        "mbid": "48cdb429-5d99-4ae5-8bc1-7bc7b68098b4",
+        "country": null,
+        "type": "Reissue Production",
+        "disambiguation": "Chicago archival label founded in 2003",
+        "score": 100
+      },
+      {
+        "name": "The Numero Group",
+        "mbid": "b35cfc6a-928e-4577-90a2-579b1f29a703",
+        "country": null,
+        "type": "Holding",
+        "disambiguation": "not for release label use! used for Numero Group's company credits only.",
+        "score": 46
+      },
+      {
+        "name": "Numero Group Worldwide Publishing",
+        "mbid": "6884fd01-694b-4cbc-ad4d-3012748918f8",
+        "country": null,
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 40
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Big Crown",
+    "best": {
+      "name": "Big Crown Records",
+      "mbid": "d730a8be-1452-4c0d-9262-cf4f25f45120",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Big Crown Records",
+        "mbid": "d730a8be-1452-4c0d-9262-cf4f25f45120",
+        "country": null,
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Big Crown 2＆7事業部",
+        "mbid": "f8f8fba6-e2a7-4ff0-984b-923ba9702574",
+        "country": "JP",
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 36
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Sub Pop",
+    "best": {
+      "name": "Sub Pop Records",
+      "mbid": "38dc88de-7720-4100-9d5b-3cdc41b0c474",
+      "country": "US",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Sub Pop Records",
+        "mbid": "38dc88de-7720-4100-9d5b-3cdc41b0c474",
+        "country": "US",
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Sub Pop Publishing",
+        "mbid": "819d1971-7ed7-4dff-9dbb-1dbcc5d1a2ac",
+        "country": null,
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 45
+      },
+      {
+        "name": "Sub Pop Music",
+        "mbid": "8e3147ee-f2a2-4da5-a71b-8ba93730c839",
+        "country": "US",
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 45
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Stones Throw",
+    "best": {
+      "name": "Stones Throw Records",
+      "mbid": "f1b83107-23e5-41a3-ab1b-2a36965cf77b",
+      "country": "US",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Stones Throw Records",
+        "mbid": "f1b83107-23e5-41a3-ab1b-2a36965cf77b",
+        "country": "US",
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Leaving Records",
+    "best": {
+      "name": "Leaving Records",
+      "mbid": "89150667-0630-4d6d-9b57-b2e723323c5f",
+      "country": "US",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Leaving Records",
+        "mbid": "89150667-0630-4d6d-9b57-b2e723323c5f",
+        "country": "US",
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Reverse Tapes",
+    "best": {
+      "name": "Reverse Tapes",
+      "mbid": "6f17b407-637a-4d42-be4c-311fd0152dc9",
+      "country": "FR",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Reverse Tapes",
+        "mbid": "6f17b407-637a-4d42-be4c-311fd0152dc9",
+        "country": "FR",
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Un je ne sais quoi",
+    "best": {
+      "name": "Un je-ne-sais-quoi",
+      "mbid": "cdd86788-6149-4136-8e49-50980952c21f",
+      "country": "FR",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Un je-ne-sais-quoi",
+        "mbid": "cdd86788-6149-4136-8e49-50980952c21f",
+        "country": "FR",
+        "type": "Production",
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Howlin Banana",
+    "best": {
+      "name": "Howlin Banana Records",
+      "mbid": "c8cd10eb-980f-425f-8862-c4fafb754664",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Howlin Banana Records",
+        "mbid": "c8cd10eb-980f-425f-8862-c4fafb754664",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Domino",
+    "best": {
+      "name": "Domino",
+      "mbid": "bfe26801-a86f-49b9-8502-05ae80b02594",
+      "country": "GB",
+      "disambiguation": "UK – WIG or RUG cat #s",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Domino",
+        "mbid": "bfe26801-a86f-49b9-8502-05ae80b02594",
+        "country": "GB",
+        "type": "Original Production",
+        "disambiguation": "UK – WIG or RUG cat #s",
+        "score": 100
+      },
+      {
+        "name": "Domino",
+        "mbid": "f27235b7-7666-4d70-a2c7-9f7b1981eaa0",
+        "country": "US",
+        "type": "Original Production",
+        "disambiguation": "USA – DNO cat #s",
+        "score": 87
+      },
+      {
+        "name": "Domino",
+        "mbid": "657343a2-b45e-4da9-8f1a-df84c78bfdc7",
+        "country": null,
+        "type": "Production",
+        "disambiguation": "Austrian label",
+        "score": 60
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Loma Vista",
+    "best": {
+      "name": "Loma Vista Recordings",
+      "mbid": "9c3ec056-57dd-4987-bb53-cbea027ef81c",
+      "country": "US",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Loma Vista Recordings",
+        "mbid": "9c3ec056-57dd-4987-bb53-cbea027ef81c",
+        "country": "US",
+        "type": "Imprint",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Loma Vista Tracks",
+        "mbid": "71e816a6-e76e-4f57-aefd-c597af92a939",
+        "country": null,
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 61
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Warp",
+    "best": {
+      "name": "Warp",
+      "mbid": "46f0f4cd-8aab-4b33-b698-f459faf64190",
+      "country": "GB",
+      "disambiguation": "UK independent label",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Warp",
+        "mbid": "46f0f4cd-8aab-4b33-b698-f459faf64190",
+        "country": "GB",
+        "type": "Original Production",
+        "disambiguation": "UK independent label",
+        "score": 100
+      },
+      {
+        "name": "Disko Warp",
+        "mbid": "f7feb8fe-3d7a-4477-9a93-b98cde597cca",
+        "country": "US",
+        "type": null,
+        "disambiguation": "",
+        "score": 64
+      },
+      {
+        "name": "Warp Records",
+        "mbid": "2cb2c4ce-38de-4d05-8953-447ab73a2c62",
+        "country": null,
+        "type": "Original Production",
+        "disambiguation": "record company, use “Warp” for imprints",
+        "score": 61
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Lex Records",
+    "best": {
+      "name": "Lex Records",
+      "mbid": "07c88952-2b68-4610-8736-1ca8f977c204",
+      "country": "GB",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Lex Records",
+        "mbid": "07c88952-2b68-4610-8736-1ca8f977c204",
+        "country": "GB",
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Fill-Lex Records",
+        "mbid": "dda477f5-b178-4018-89ac-45bac2b60d69",
+        "country": "ES",
+        "type": null,
+        "disambiguation": "",
+        "score": 63
+      },
+      {
+        "name": "51 Lex Records",
+        "mbid": "a6f605c6-8162-4cb3-91a0-6cea4f1f438a",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 51
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Fashionably Early",
+    "best": {
+      "name": "Fashionably Early Records",
+      "mbid": "80464bd1-0ea7-4215-8d70-f9c358ee44e9",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Fashionably Early Records",
+        "mbid": "80464bd1-0ea7-4215-8d70-f9c358ee44e9",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Fashionably Early LLC",
+        "mbid": "073a30e6-5429-46e0-ba53-325f27a2b0fb",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 83
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Escho",
+    "best": {
+      "name": "Escho",
+      "mbid": "eb29db8c-175d-4bf0-8a41-166f774e9f2e",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Escho",
+        "mbid": "eb29db8c-175d-4bf0-8a41-166f774e9f2e",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Blue Note",
+    "best": {
+      "name": "Blue Note",
+      "mbid": "713c4a95-6616-442b-9cf6-14e1ddfd5946",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Blue Note",
+        "mbid": "713c4a95-6616-442b-9cf6-14e1ddfd5946",
+        "country": null,
+        "type": "Imprint",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Blue Note Records",
+        "mbid": "d3865f1e-ae0c-4a97-99b9-016966d49cb5",
+        "country": null,
+        "type": "Holding",
+        "disambiguation": "this is the record company; for release labels use its imprint “Blue Note”",
+        "score": 57
+      },
+      {
+        "name": "Blue Note Classic",
+        "mbid": "4c6bed28-3648-4b47-a576-b3a2378e4f5d",
+        "country": null,
+        "type": null,
+        "disambiguation": "Blue Note US series active in 1979-81",
+        "score": 52
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Full Time Hobby",
+    "best": {
+      "name": "Full Time Hobby",
+      "mbid": "c51e4371-bd49-4c00-afed-b5446bb433ac",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Full Time Hobby",
+        "mbid": "c51e4371-bd49-4c00-afed-b5446bb433ac",
+        "country": null,
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Full Time Hobby Publishing",
+        "mbid": "2515a467-80ff-4084-9dfe-186629fc92e2",
+        "country": null,
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 57
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Noa",
+    "best": {
+      "name": "Noa Music",
+      "mbid": "88db30a8-4e40-43d8-aa3c-5d48b237f86c",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Noa Music",
+        "mbid": "88db30a8-4e40-43d8-aa3c-5d48b237f86c",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "NOA NOA Hör-Buchedition",
+        "mbid": "154584ff-f266-4e2f-8649-7cbc6917a6e7",
+        "country": null,
+        "type": "Distributor",
+        "disambiguation": "",
+        "score": 95
+      },
+      {
+        "name": "Noa Noa Music",
+        "mbid": "c48443f8-50f7-4298-bd9b-5361e57561ae",
+        "country": "US",
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 87
+      }
+    ],
+    "confidence": "⚠️ à vérifier",
+    "reasons": [
+      "nom différent du nom cherché",
+      "plusieurs candidats proches",
+      "nom très court / générique"
+    ]
+  },
+  {
+    "input": "Soul Jazz",
+    "best": {
+      "name": "Soul Jazz Records",
+      "mbid": "88ff5195-2c1a-4ea6-94b4-f96384f9bf52",
+      "country": "GB",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Soul Jazz Records",
+        "mbid": "88ff5195-2c1a-4ea6-94b4-f96384f9bf52",
+        "country": "GB",
+        "type": "Reissue Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Creative Soul Jazz",
+        "mbid": "715d99fd-adb7-49e4-b2c8-ba8b038dd827",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 57
+      },
+      {
+        "name": "Soul Jazz Pop",
+        "mbid": "e8f212f4-ec14-4cf4-9c06-43932260d847",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 57
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Habibi Funk",
+    "best": {
+      "name": "Habibi Funk",
+      "mbid": "cdecb6d1-ba2d-452d-94f7-b80bf777359e",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Habibi Funk",
+        "mbid": "cdecb6d1-ba2d-452d-94f7-b80bf777359e",
+        "country": null,
+        "type": "Production",
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "PLZ Make It Ruins",
+    "best": {
+      "name": "PLZ Make It Ruins",
+      "mbid": "f400fca8-7120-42e4-9631-db74d5248ba9",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "PLZ Make It Ruins",
+        "mbid": "f400fca8-7120-42e4-9631-db74d5248ba9",
+        "country": null,
+        "type": "Distributor",
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Jagjaguwar",
+    "best": {
+      "name": "Jagjaguwar",
+      "mbid": "42e06800-76f8-4a5b-a9b6-0983a5d72f17",
+      "country": "US",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Jagjaguwar",
+        "mbid": "42e06800-76f8-4a5b-a9b6-0983a5d72f17",
+        "country": "US",
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Jagjaguwar, Inc",
+        "mbid": "d3ea901d-8ebd-4097-84a3-f2c86e7537ac",
+        "country": null,
+        "type": "Holding",
+        "disambiguation": "",
+        "score": 44
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "4AD",
+    "best": {
+      "name": "4AD",
+      "mbid": "a539bb1e-f2e1-4b45-9db8-8053841e7503",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "4AD",
+        "mbid": "a539bb1e-f2e1-4b45-9db8-8053841e7503",
+        "country": null,
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "4AD",
+        "mbid": "71d3bca3-b601-42f7-9cae-cf2ab7f6f28f",
+        "country": null,
+        "type": "Bootleg Production",
+        "disambiguation": "bootlegs of the real label",
+        "score": 56
+      },
+      {
+        "name": "4AD Songs",
+        "mbid": "2db05c58-3a4d-479b-89ee-d5d27e1b250b",
+        "country": null,
+        "type": "Publisher",
+        "disambiguation": "publisher",
+        "score": 40
+      }
+    ],
+    "confidence": "⚠️ à vérifier",
+    "reasons": [
+      "nom très court / générique"
+    ]
+  },
+  {
+    "input": "You've Changed",
+    "best": {
+      "name": "You’ve Changed Records",
+      "mbid": "ca792f70-e07f-45a1-998e-45e89b8a6be8",
+      "country": "CA",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "You’ve Changed Records",
+        "mbid": "ca792f70-e07f-45a1-998e-45e89b8a6be8",
+        "country": "CA",
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Catapulte",
+    "best": {
+      "name": "Catapulte records",
+      "mbid": "6e1b3690-56a8-4323-a044-5445c225b37f",
+      "country": "FR",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Catapulte records",
+        "mbid": "6e1b3690-56a8-4323-a044-5445c225b37f",
+        "country": "FR",
+        "type": "Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Archive Catapulte",
+        "mbid": "9bfbfeb8-3b4b-4cc8-bd68-77f664235f9e",
+        "country": null,
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 77
+      },
+      {
+        "name": "Archive & Catapulte",
+        "mbid": "c421f617-d939-4e83-98d2-655bf78aaa46",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 73
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "GRAiN PWRD",
+    "best": {
+      "name": "Against the Grain",
+      "mbid": "65dd9396-7f78-4aed-b550-4390bad043ad",
+      "country": "GB",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Against the Grain",
+        "mbid": "65dd9396-7f78-4aed-b550-4390bad043ad",
+        "country": "GB",
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Grip Grain",
+        "mbid": "9b4ff4de-d23a-4b08-a7ff-d22d481c2d17",
+        "country": "ES",
+        "type": null,
+        "disambiguation": "",
+        "score": 85
+      },
+      {
+        "name": "Black Grain",
+        "mbid": "ea9b10d1-8820-4703-b5bb-f461b2c807e3",
+        "country": "DK",
+        "type": null,
+        "disambiguation": "Danish",
+        "score": 85
+      }
+    ],
+    "confidence": "⚠️ à vérifier",
+    "reasons": [
+      "nom différent du nom cherché",
+      "trouvé par recherche élargie"
+    ]
+  },
+  {
+    "input": "Mello Music Group",
+    "best": {
+      "name": "Mello Music Group",
+      "mbid": "76efd859-3479-4c4a-a2ea-11740a0ab5b7",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Mello Music Group",
+        "mbid": "76efd859-3479-4c4a-a2ea-11740a0ab5b7",
+        "country": null,
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Believe UK",
+    "best": {
+      "name": "Believe UK",
+      "mbid": "5b903849-5962-48b9-8fed-13b28cc2c373",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Believe UK",
+        "mbid": "5b903849-5962-48b9-8fed-13b28cc2c373",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Preference",
+    "best": {
+      "name": "Preference Records",
+      "mbid": "20185943-a3d6-44d0-aac5-674df4dc3ed0",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Preference Records",
+        "mbid": "20185943-a3d6-44d0-aac5-674df4dc3ed0",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Malligator Préférence",
+        "mbid": "9a116da5-c1fa-43eb-a707-748c66cf4a09",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 99
+      }
+    ],
+    "confidence": "⚠️ à vérifier",
+    "reasons": [
+      "plusieurs candidats proches"
+    ]
+  },
+  {
+    "input": "Impulse!",
+    "best": {
+      "name": "impulse!",
+      "mbid": "93c3b044-2b4e-4239-a73b-8fb76f3e6ca9",
+      "country": "US",
+      "disambiguation": "jazz label active during the 60s–70s, now property of Universal Music Group, mainly used as a reissue label",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "impulse!",
+        "mbid": "93c3b044-2b4e-4239-a73b-8fb76f3e6ca9",
+        "country": "US",
+        "type": "Original Production",
+        "disambiguation": "jazz label active during the 60s–70s, now property of Universal Music Group, mainly used as a reissue label",
+        "score": 100
+      },
+      {
+        "name": "Impulse",
+        "mbid": "c30a9d66-6570-4892-a1a2-c26ba07f21ce",
+        "country": null,
+        "type": null,
+        "disambiguation": "magazine published by Jara Discs",
+        "score": 60
+      },
+      {
+        "name": "ABC Impulse!",
+        "mbid": "25143fa3-c9ab-4795-8fe4-a2e49bff5a56",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 60
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Touching Bass",
+    "best": {
+      "name": "Touching Bass",
+      "mbid": "99b3f495-d283-4c60-84dd-e0df33da7c5e",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Touching Bass",
+        "mbid": "99b3f495-d283-4c60-84dd-e0df33da7c5e",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "AD 93",
+    "best": {
+      "name": "AD 93",
+      "mbid": "92463c32-4730-459f-ba31-b8b61f4194b1",
+      "country": "GB",
+      "disambiguation": "use \"Whities\" for release dates before 2020-06-12",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "AD 93",
+        "mbid": "92463c32-4730-459f-ba31-b8b61f4194b1",
+        "country": "GB",
+        "type": "Original Production",
+        "disambiguation": "use \"Whities\" for release dates before 2020-06-12",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Break All",
+    "best": {
+      "name": "Break All Records",
+      "mbid": "850eef23-509a-4a87-9316-5186e697e982",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Break All Records",
+        "mbid": "850eef23-509a-4a87-9316-5186e697e982",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Sounds of Crenshaw",
+    "best": {
+      "name": "Sounds of Crenshaw",
+      "mbid": "ab085818-1bf0-48b5-9d14-cbde6e836f42",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Sounds of Crenshaw",
+        "mbid": "ab085818-1bf0-48b5-9d14-cbde6e836f42",
+        "country": null,
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Scenic Route",
+    "best": {
+      "name": "Scenic Route",
+      "mbid": "d98fdd87-d5c7-46ef-9e5e-8ad123e71540",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Scenic Route",
+        "mbid": "d98fdd87-d5c7-46ef-9e5e-8ad123e71540",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Epitaph",
+    "best": {
+      "name": "Epitaph",
+      "mbid": "1bfd06be-a6ed-4ced-8159-7d4d2923a40c",
+      "country": "US",
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Epitaph",
+        "mbid": "1bfd06be-a6ed-4ced-8159-7d4d2923a40c",
+        "country": "US",
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "Epitaph Europe",
+        "mbid": "f15a7708-66b0-4b49-a11a-837d53380d8d",
+        "country": "NL",
+        "type": "Original Production",
+        "disambiguation": "not for release label use, for copyrights relationships only",
+        "score": 75
+      },
+      {
+        "name": "Last Epitaph",
+        "mbid": "7f5f04a8-bc9a-4bac-ae99-670c72fd139b",
+        "country": null,
+        "type": "Production",
+        "disambiguation": "",
+        "score": 56
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "Born Bad",
+    "best": {
+      "name": "Born Bad Records",
+      "mbid": "c82f5a52-138e-46b0-b359-acab96b71ce6",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "Born Bad Records",
+        "mbid": "c82f5a52-138e-46b0-b359-acab96b71ce6",
+        "country": null,
+        "type": "Original Production",
+        "disambiguation": "",
+        "score": 100
+      }
+    ],
+    "confidence": "OK",
+    "reasons": []
+  },
+  {
+    "input": "10k",
+    "best": {
+      "name": "10K Projects",
+      "mbid": "3e99fe77-c2ba-44fb-8185-223c5a3beb0e",
+      "country": null,
+      "disambiguation": "",
+      "score": 100
+    },
+    "candidates": [
+      {
+        "name": "10K Projects",
+        "mbid": "3e99fe77-c2ba-44fb-8185-223c5a3beb0e",
+        "country": null,
+        "type": "Imprint",
+        "disambiguation": "",
+        "score": 100
+      },
+      {
+        "name": "10k",
+        "mbid": "4321b3d3-0023-4c6c-899c-2787ee02a407",
+        "country": null,
+        "type": "Publisher",
+        "disambiguation": "",
+        "score": 92
+      },
+      {
+        "name": "10K ISLANDS",
+        "mbid": "6430c992-481a-4716-a64e-f5210f4b9536",
+        "country": null,
+        "type": null,
+        "disambiguation": "",
+        "score": 65
+      }
+    ],
+    "confidence": "⚠️ à vérifier",
+    "reasons": [
+      "nom différent du nom cherché",
+      "nom très court / générique"
+    ]
+  }
+]
