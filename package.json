@@ -7,12 +7,14 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "preview": "node src/index.js --preview"
+    "preview": "node src/index.js --preview",
+    "resolve-labels": "node scripts/resolve-labels.js"
   },
   "engines": {
     "node": ">=22"
   },
   "dependencies": {
+    "node-html-parser": "^9.0.4",
     "resend": "^6.32.1",
     "rss-parser": "^3.13.0"
   }

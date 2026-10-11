@@ -25,6 +25,21 @@ Node.js 22 ou plus récent.
 Un flux en erreur (404, timeout, format invalide) est signalé par un
 avertissement et n'interrompt pas le script.
 
+## Sorties Bandcamp
+
+Bandcamp n'a pas de flux RSS par label : le script lit la page de chaque label
+listé dans `BANDCAMP_LABELS` ([src/sources.js](src/sources.js)) et compare sa
+discographie à la mémoire [seen.json](seen.json), qui est commitée et évolue à
+chaque exécution. Seules les sorties absentes de cette mémoire sont remontées.
+
+Au premier passage sur un label, toutes ses sorties sont mémorisées sans être
+remontées ; les nouveautés ne sont détectées qu'aux passages suivants.
+`npm run preview` ne modifie pas `seen.json`.
+
+Les nouvelles sorties apparaissent dans le terminal et en tête de l'email. La
+mémoire n'est enregistrée qu'une fois l'email parti : en cas d'échec d'envoi,
+les sorties sont retentées au passage suivant.
+
 ## Email
 
 L'envoi passe par l'API [Resend](https://resend.com), configurée par variables
@@ -50,3 +65,7 @@ Le workflow [.github/workflows/radar.yml](.github/workflows/radar.yml) lance le
 script tous les jours à 6h UTC, et peut être déclenché à la main depuis l'onglet
 Actions. Il lit `RESEND_API_KEY`, `EMAIL_FROM` et `EMAIL_TO` dans les secrets du dépôt
 (Settings → Secrets and variables → Actions).
+
+À la fin de chaque passage, le workflow commite et pousse `seen.json` s'il a
+changé. En local, préférer `npm run preview` à `npm start`, qui envoie un vrai
+email et modifie `seen.json` en parallèle du workflow.

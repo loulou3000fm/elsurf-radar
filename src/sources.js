@@ -38,3 +38,27 @@ export const FEEDS = [
     origin: 'INTL',
   },
 ];
+
+// Labels suivis sur Bandcamp. Bandcamp n'a pas de flux RSS par label : on lit la
+// page du label et on détecte les nouvelles sorties par comparaison avec seen.json.
+// Un champ origin ('FR' ou 'INTL') peut être ajouté par label ; 'INTL' par défaut.
+export const BANDCAMP_LABELS = [
+  { name: '10k', url: 'https://10kglobal.bandcamp.com/' },
+  { name: 'Un je ne sais quoi', url: 'https://unjenesaisquoi.bandcamp.com/' },
+  { name: 'Catapulte', url: 'https://catapulterecords.bandcamp.com/' },
+  { name: 'Reverse Tapes', url: 'https://reversetapes.bandcamp.com/' },
+  { name: 'Howlin Banana', url: 'https://howlinbananarecords.bandcamp.com/' },
+  { name: 'Born Bad', url: 'https://bornbadrecords.bandcamp.com/' },
+  { name: 'Escho', url: 'https://escho.bandcamp.com/' },
+  { name: 'PLZ Make It Ruins', url: 'https://plzmakeitruins.bandcamp.com/' },
+  { name: 'Leaving Records', url: 'https://leavingrecords.bandcamp.com/' },
+  { name: 'Jakarta Records', url: 'https://jakartarecords-label.bandcamp.com/' },
+  { name: 'Big Crown', url: 'https://bigcrownrecords.bandcamp.com/' },
+  { name: 'Habibi Funk', url: 'https://habibifunkrecords.bandcamp.com/' },
+  { name: 'Mello Music Group', url: 'https://mellomusicgroup.bandcamp.com/' },
+  { name: 'Touching Bass', url: 'https://touching-bass.bandcamp.com/' },
+  { name: 'AD 93', url: 'https://ad93.bandcamp.com/' },
+  { name: 'Scenic Route', url: 'https://scenicroute.bandcamp.com/' },
+  { name: 'Numéro Group', url: 'https://numerogroup.bandcamp.com/' },
+  { name: 'Noa', url: 'https://noarecords.bandcamp.com/' },
+];

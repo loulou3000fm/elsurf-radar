@@ -7,8 +7,14 @@ on:
   # Permet aussi un lancement manuel depuis l'onglet Actions.
   workflow_dispatch:
 
+# Écriture nécessaire pour commiter seen.json à la fin du passage.
 permissions:
-  contents: read
+  contents: write
+
+# Jamais deux passages en même temps : ils se disputeraient seen.json.
+concurrency:
+  group: radar
+  cancel-in-progress: false
 
 jobs:
   radar:
@@ -30,3 +36,17 @@ jobs:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
+
+      # La machine est effacée après chaque passage : sans ce commit, le script
+      # oublierait les sorties déjà vues et les annoncerait à nouveau le lendemain.
+      - name: Sauvegarder la mémoire des sorties vues
+        run: |
+          if git diff --quiet -- seen.json; then
+            echo "seen.json inchangé, rien à sauvegarder."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add seen.json
+            git commit -m "Met à jour seen.json"
+            git push
+          fi
