@@ -2,8 +2,9 @@ name: Radar quotidien
 
 on:
   schedule:
-    # Tous les jours à 6h UTC (8h à Paris en été, 7h en hiver).
-    - cron: '0 6 * * *'
+    # Tous les jours à 6h17 UTC (8h17 à Paris en été, 7h17 en hiver).
+    # Pas à l'heure pile : GitHub y est surchargé et retarde ou saute des passages.
+    - cron: '17 6 * * *'
   # Permet aussi un lancement manuel depuis l'onglet Actions.
   workflow_dispatch:
 
